@@ -10263,7 +10263,7 @@ a:focus {
 }
 
 .topbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 .topbar.navbar-dark .navbar-nav .nav-item .nav-link:active {
